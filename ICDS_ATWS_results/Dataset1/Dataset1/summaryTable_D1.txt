@@ -1,0 +1,2 @@
+number_of_images,smallest_window_length,largest_window_length,average_window_length,smallest_IC,largest_IC,average_IC
+19,32,198,77.3684210526316,16.736603645995,39.3773584244391,22.2728679594683
